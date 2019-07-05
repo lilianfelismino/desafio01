@@ -1,4 +1,4 @@
-# GoStack Bootcamp Rocketseat 2019
+# GoStack Bootcamp Rocketseat 2019 - Desafio 01
 ## Desafio 01. Conceitos do NodeJS
 
 Crie uma aplicação do zero utilizando Express.
